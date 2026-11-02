@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ProjetApSport/ProjetApSport.csproj" Id="0d0f9898-4b59-4889-a42f-ac5be8bfc02c" />
+  <Project Path="ProjetConnexionSportif/ProjetConnexionSportif.csproj" Id="e5ce1c59-f970-4525-a035-eccfff8ec8e5" />
+  <Project Path="ProjetConsultationSportif/ProjetConsultationSportif.csproj" Id="ce7618f4-7415-4f6e-9741-d5368f5851b4" />
+  <Project Path="ProjetModificationSportif/ProjetModificationSportif.csproj" Id="2a287e28-9afa-44f5-a359-ab20261de4bb" />
+</Solution>
